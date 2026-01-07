@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	text-align:center;
+	border:2px solid black;
+}
+.table{
+	width:100%
+}
+
+.td{
+	height:100px;
+	width:50%
+}
+
+.td1{
+	height:200px;
+}
+
+#color{
+	background-color:black;
+	color:white
+}
